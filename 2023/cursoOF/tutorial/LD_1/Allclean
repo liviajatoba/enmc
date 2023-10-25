@@ -1,0 +1,12 @@
+cd caso
+./Allclean
+cd ..
+
+cd plotUx
+rm *.png
+cd ..
+
+cd plotUy
+rm *.png
+cd ..
+
