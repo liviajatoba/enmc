@@ -1,0 +1,13 @@
+705253
+
+ESCOAMENTO ENTRE PLACAS PLANAS COMO CASO BASE PARA O ENSINO DE DINÂMICA DOS FLUIDOS COMPUTACIONAL: PARTE I - SOLUÇÃO USANDO O CALCME	
+
+Livia F C Jatoba e Sthefany Machado Sardinha
+
+Resumo:
+A Dinâmica dos Fluidos Computacional é uma área do conhecimento que trata da solução numérica das equações que governam o escoamento de fluidos. O conteúdo abordado no ensino da área é extenso e envolve conhecimentos de métodos e algoritmos numéricos, modelagem de fenômenos de transporte e, em alguns casos, linguagem de programação e/ou ferramentas computacionais. A natureza interdisciplinar da área é um desafio, particularmente no desenvolvimento do conteúdo programático para o escopo da graduação. O presente trabalho apresenta metodologia para o ensino do método dos volumes finitos através do estudo de caso do escoamento Couette entre placas planas. O trabalho apresenta o conteúdo didático para dedução das equações discretas, usando uma função de interpolação linear, para o escoamento estacionário 1D puramente difusivo. A montagem e solução do sistema algébrico é feita através da ferramenta livre, CalcMe, um aplicativo online para cálculos algébricos.
+
+Abstract:
+Computational Fluid Dynamics (CFD) is an area of knowledge that studies the numerical solution of the equations that govern fluid flow. Teaching CFD involves concepts of numerical methods and algorithms, modeling of transport phenomena and, in some cases, programming language and/or computational tools. The interdisciplinary nature of the area is a challenge, particularly in the development of syllabus content for the undergraduate scope. The present work presents a methodology for teaching the finite volume method through the case study of the flow between parallel plates. The work presents the didactic content for the deduction of discrete equations, using a linear interpolation function, for the diffusive 1D steady flow. The solution of the algebraic system is achieved using a free tool, CalcMe, an online application for algebraic calculations.
+
+
